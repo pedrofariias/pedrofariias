@@ -33,15 +33,8 @@ At university I study **C** and **Python**; in practical projects I mainly work 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/UFAL-C%20%26%20Python-0D1117?style=for-the-badge&logo=cplusplus&logoColor=A8B9CC" alt="UFAL: C e Python" />
-  <img src="https://img.shields.io/badge/Projetos-JS%20%26%20TS-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Projetos: JS e TS" />
-</p>
-
-<p align="center">
-  <sub>🎓 Estudos na universidade · University studies &nbsp;&nbsp;|&nbsp;&nbsp; 🛠️ Uso em projetos práticos · Used in practical projects</sub>
-</p>
-
+- 🎓 **UFAL** — C e Python *(estudos na universidade)*
+- 🛠️ **Projetos** — JavaScript e TypeScript *(uso prático)*
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
