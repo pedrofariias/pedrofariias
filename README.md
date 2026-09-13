@@ -1,20 +1,20 @@
 # Olá, eu sou o Pedro 👋 / Hi, I'm Pedro
 
-Estudante da **Universidade Federal de Alagoas (UFAL)**, em **Maceió, Alagoas**, com o objetivo de me tornar **Full Stack Developer**.
-Student at the **Federal University of Alagoas (UFAL)**, based in **Maceió, Alagoas (Brazil)**, aiming to become a **Full Stack Developer**.
+Estudante de **Engenharia da Computação** na **Universidade Federal de Alagoas (UFAL)**, em **Maceió, Alagoas**, com o objetivo de me tornar **Full Stack Developer**.
+Student of **Computer Engineering** at the **Federal University of Alagoas (UFAL)**, based in **Maceió, Alagoas (Brazil)**, aiming to become a **Full Stack Developer**.
 
 Atualmente construo aplicações web reais — do backend à interface — com foco em produto, arquitetura, automação e boa experiência de uso.
 I currently build real-world web applications — from backend to UI — with a focus on product, architecture, automation, and user experience.
 
-Na faculdade, estudo **C** e **Python**; nos projetos práticos, trabalho principalmente com **JavaScript/TypeScript**, React, NestJS/Express e bancos de dados.
-At university I study **C** and **Python**; in practical projects I mainly work with **JavaScript/TypeScript**, React, NestJS/Express, and databases.
+Na faculdade, a base de engenharia inclui **C**, **Python**, algoritmos e fundamentos de sistemas; nos projetos práticos, trabalho com **JavaScript/TypeScript**, React, NestJS/Express e bancos de dados.
+At university, the engineering foundation includes **C**, **Python**, algorithms, and systems fundamentals; in practical projects I work with **JavaScript/TypeScript**, React, NestJS/Express, and databases.
 
 ---
 
 ## 🚀 Sobre mim / About me
 
-- 🎓 Estudante na **Universidade Federal de Alagoas (UFAL)** — estudando **C** e **Python**
-  Student at **UFAL** — studying **C** and **Python**
+- 🎓 **Engenharia da Computação** — **UFAL** (C, Python, algoritmos e fundamentos de engenharia)
+  **Computer Engineering** — **UFAL** (C, Python, algorithms, and engineering fundamentals)
 - 🛠️ Experiência prática em APIs, frontends modernos, bancos de dados e **automação**
   Hands-on experience with APIs, modern frontends, databases, and **automation**
 - 🔭 Foco atual: SaaS multi-tenant, plataformas fullstack e automação de fluxos
@@ -28,13 +28,19 @@ At university I study **C** and **Python**; in practical projects I mainly work 
 ## 💻 Stack & ferramentas / Stack & tools
 
 ### Linguagens / Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-- 🎓 **UFAL** — C e Python *(estudos na universidade)*
-- 🛠️ **Projetos** — JavaScript e TypeScript *(uso prático)*
+- 🎓 **UFAL (Engenharia da Computação)** — C e Python *(base de engenharia / algorithms & systems)*
+- 🛠️ **Projetos** — JavaScript e TypeScript *(uso prático / practical work)*
+
+### Engenharia & fundamentos / Engineering & fundamentals
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Algorithms](https://img.shields.io/badge/Algoritmos-0D1117?style=for-the-badge&logo=codeforces&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Estruturas%20de%20Dados-0D1117?style=for-the-badge&logo=buffer&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -52,7 +58,6 @@ At university I study **C** and **Python**; in practical projects I mainly work 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 
 ---
 
