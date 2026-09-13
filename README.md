@@ -63,7 +63,8 @@ Stack used in recent projects (most work lives in private repositories).
 | **Acolhe Bem** | API e app mobile com foco em saúde e bem-estar.<br>*API and mobile app focused on health & wellness.* | NestJS · React Native · PostgreSQL · MongoDB |
 
 ### Estudos públicos / Public learning
-[Pokedex](https://github.com/pedrofariias/pokedex) · [Portfolio](https://github.com/pedrofariias/portfolio) · [DevLinks](https://github.com/pedrofariias/devlinks)
+- **[Pokédex](https://github.com/pedrofariias/pokedex)** — [demo](https://pedrofariias.github.io/pokedex/) · JavaScript + PokéAPI
+- **[Portfolio](https://github.com/pedrofariias/portfolio)** — [demo](https://pedrofariias.github.io/portfolio/) · HTML/CSS/JS
 
 ---
 
