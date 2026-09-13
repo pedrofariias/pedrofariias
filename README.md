@@ -21,7 +21,7 @@ At university, the engineering foundation includes **C**, **Python**, algorithms
   Current focus: multi-tenant SaaS, fullstack platforms, and workflow automation
 - 📍 Maceió, Alagoas
 - 📸 Instagram: [@pedrofariiass_](https://www.instagram.com/pedrofariiass_)
-- 💼 LinkedIn: *em breve / coming soon*
+- 💼 LinkedIn: [pedro-henrique-b5a886195](https://www.linkedin.com/in/pedro-henrique-b5a886195)
 
 ---
 
@@ -85,7 +85,7 @@ At university, the engineering foundation includes **C**, **Python**, algorithms
 - Telefone: [(82) 9 9672-5904](tel:+5582996725904)
 - Instagram: [@pedrofariiass_](https://www.instagram.com/pedrofariiass_)
 - GitHub: [@pedrofariias](https://github.com/pedrofariias)
-- LinkedIn: *link será adicionado em breve / link coming soon*
+- LinkedIn: [https://www.linkedin.com/in/pedro-henrique-b5a886195](https://www.linkedin.com/in/pedro-henrique-b5a886195)
 
 ---
 
