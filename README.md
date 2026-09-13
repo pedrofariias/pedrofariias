@@ -61,8 +61,8 @@ Bot e automação de setup para servidor Discord de e-sports (comandos, canais, 
 
 ## 📈 GitHub Stats
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofariias&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofariias&layout=compact&theme=transparent&hide_border=true&count_private=true)
+![Pedro's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=pedrofariias&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrofariias&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
