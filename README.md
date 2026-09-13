@@ -19,7 +19,7 @@ At university, the engineering foundation includes **C**, **Python**, algorithms
   Hands-on experience with APIs, modern frontends, databases, and **automation**
 - 🔭 Foco atual: SaaS multi-tenant, plataformas fullstack e automação de fluxos
   Current focus: multi-tenant SaaS, fullstack platforms, and workflow automation
-- 📍 Maceió, Alagoas — Brasil
+- 📍 Maceió, Alagoas
 - 📸 Instagram: [@pedrofariiass_](https://www.instagram.com/pedrofariiass_)
 - 💼 LinkedIn: *em breve / coming soon*
 
@@ -81,6 +81,8 @@ At university, the engineering foundation includes **C**, **Python**, algorithms
 
 ## 📫 Contato / Contact
 
+- E-mail: [henriqueopedro11@gmail.com](mailto:henriqueopedro11@gmail.com)
+- Telefone: [(82) 9 9672-5904](tel:+5582996725904)
 - Instagram: [@pedrofariiass_](https://www.instagram.com/pedrofariiass_)
 - GitHub: [@pedrofariias](https://github.com/pedrofariias)
 - LinkedIn: *link será adicionado em breve / link coming soon*
